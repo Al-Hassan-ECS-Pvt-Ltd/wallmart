@@ -1,5 +1,3 @@
-kareem
-raheem
 h
 j
 

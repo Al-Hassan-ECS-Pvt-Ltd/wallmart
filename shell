@@ -1,0 +1,6 @@
+curl \
+  -X POST \
+  -H "Accept: application/vnd.github.v3+json" \
+  https://api.github.com/orgs/Deccantutorial/repos?access_token=d1b2b1ff93249f741a286de78690e83c63a30bec \
+  -d  '{\"name\":\"abdulla\"}'
+  echo "$?"
